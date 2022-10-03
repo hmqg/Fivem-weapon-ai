@@ -1,2 +1,4 @@
-# Fivem-weapon-ai
-weapon ai for fivem  ai fivem 
+go into citizen folder
+commmom
+data
+drop the "ai" folder into the place
